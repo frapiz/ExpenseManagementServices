@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  expensemanagementservices:
+    image: ${DOCKER_REGISTRY}expensemanagementservices
+    build:
+      context: .
+      dockerfile: ExpenseManagementServices/Dockerfile

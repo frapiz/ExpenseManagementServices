@@ -1,0 +1,11 @@
+﻿{
+  "ConnectionStrings": {
+    "ExpenseManagement": "Server=DESKTOP-LG07LFP\\SQLEXPRESS;Database=ExpenseManagement;Trusted_Connection=True;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
